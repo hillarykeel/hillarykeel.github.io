@@ -171,6 +171,7 @@ Single styles
 ------------------------*/
 
 .img-responsive { max-width: 100%; }
+.img-thirds { max-width: 32%; }
 .img-responsive-smaller {
   display: block;
   margin-left: auto;
